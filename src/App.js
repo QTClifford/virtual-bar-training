@@ -164,6 +164,7 @@ const GARNISHES = {
     "Ice",
     "Mint Sprig",
     "None",
+    "Olives",
     "Nutmeg",
     "Primitivo Float",
     "Red Salt",
