@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/virtual-bar-training/static/css/main.a3317c7e.css",
+    "main.js": "/virtual-bar-training/static/js/main.07051788.js",
+    "index.html": "/virtual-bar-training/index.html",
+    "main.a3317c7e.css.map": "/virtual-bar-training/static/css/main.a3317c7e.css.map",
+    "main.07051788.js.map": "/virtual-bar-training/static/js/main.07051788.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3317c7e.css",
+    "static/js/main.07051788.js"
+  ]
+}
