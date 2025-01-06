@@ -1,8 +1,8 @@
 {
-"homepage": "https://qtclifford.github.io/virtual-bar-training/",
   "name": "virtual-bar-training",
   "version": "1.0.0",
   "private": true,
+  "homepage": "https://qtclifford.github.io/virtual-bar-training/",
   "dependencies": {
     "@radix-ui/react-alert-dialog": "^1.0.5",
     "@radix-ui/react-slot": "^1.0.2",
